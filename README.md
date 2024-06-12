@@ -1,0 +1,2 @@
+# parameterizedtest_nextafter
+pytestにおけるparametrize(パラメータ化)とnextafterによる境界値試験
